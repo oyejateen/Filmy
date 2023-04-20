@@ -1,8 +1,10 @@
 # Filmy
-A Langchain based ai model which interact with themoviedb api to find the movie with its short discription
 
-### How to use it.                  
-• Get the open ai api key.
-• Get themoviedb api key.
-• Add both api keys into safe environment as token and api respectively.
-• Hit that run button.
+Filmy is a Langchain-based AI model that interacts with the themoviedb API to find movies along with their short descriptions.
+
+### How to use it:
+
+- Obtain an API key for OpenAI.
+- Obtain an API key for themoviedb.
+- Add both API keys as environment variables, with the OpenAI key as "token" and the themoviedb key as "api".
+- Click on the "run" button to use the model.
